@@ -76,8 +76,8 @@ SmartEvent_PFA/
 
 1. **Cloner le dépôt**
    ```bash
-   git clone https://github.com/AmalChegdali/SmartEvent_PFA.git
-   cd SmartEvent_PFA
+   git clone https://github.com/AmalChegdali/smartevent-management-system.git
+   cd smartevent-management-system
    ```
 
 2. **Configurer la base de données**
